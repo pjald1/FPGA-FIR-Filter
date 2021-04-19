@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Fri Oct 23 22:19:06 2020
+# Process ID: 16916
+# Current directory: C:/Users/pjald/Vivado Projects/test/Group34 Project Part B filter/06_demo_all.runs/mem_oled_char_lib_synth_1
+# Command line: vivado.exe -log mem_oled_char_lib.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source mem_oled_char_lib.tcl
+# Log file: C:/Users/pjald/Vivado Projects/test/Group34 Project Part B filter/06_demo_all.runs/mem_oled_char_lib_synth_1/mem_oled_char_lib.vds
+# Journal file: C:/Users/pjald/Vivado Projects/test/Group34 Project Part B filter/06_demo_all.runs/mem_oled_char_lib_synth_1\vivado.jou
+#-----------------------------------------------------------
+source mem_oled_char_lib.tcl -notrace
+INFO: [IP_Flow 19-4838] Using cached IP synthesis design for IP mem_oled_char_lib, cache-ID = 9c73aa554c22f27e.
+INFO: [Common 17-206] Exiting Vivado at Fri Oct 23 22:19:12 2020...

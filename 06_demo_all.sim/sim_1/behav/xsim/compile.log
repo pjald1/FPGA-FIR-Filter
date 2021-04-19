@@ -1,0 +1,9 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/pjald/Vivado Projects/06_demo_all_2020/src_ip/mem_oled_char_lib/mem_oled_char_lib_sim_netlist.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mem_oled_char_lib
+INFO: [VRFC 10-311] analyzing module mem_oled_char_lib_blk_mem_gen_generic_cstr
+INFO: [VRFC 10-311] analyzing module mem_oled_char_lib_blk_mem_gen_prim_width
+INFO: [VRFC 10-311] analyzing module mem_oled_char_lib_blk_mem_gen_prim_wrapper_init
+INFO: [VRFC 10-311] analyzing module mem_oled_char_lib_blk_mem_gen_top
+INFO: [VRFC 10-311] analyzing module mem_oled_char_lib_blk_mem_gen_v8_4_4
+INFO: [VRFC 10-311] analyzing module mem_oled_char_lib_blk_mem_gen_v8_4_4_synth
+INFO: [VRFC 10-311] analyzing module glbl
